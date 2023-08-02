@@ -1,4 +1,4 @@
-⚠️ 🚨 This repository is used ONLY for EXPERIMENTAL PURPOSES & is ALWAYS BROKEN. Do base your code on this even for EXPERIMENTAL PURPOSES.
+⚠️ 🚨 This repository is used ONLY for EXPERIMENTAL PURPOSES & is ALWAYS BROKEN. Do NOT base your code on this even for EXPERIMENTAL PURPOSES.
 ---
 
 
